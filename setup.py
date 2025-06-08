@@ -14,7 +14,7 @@ setup(
     description="A tool to download documents from Scribd",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/scribd-downloader",
+    url="https://github.com/alhilalanwar07/scribd-downloader",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -37,7 +37,7 @@ setup(
     },
     keywords="scribd downloader document pdf",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/scribd-downloader/issues",
-        "Source": "https://github.com/yourusername/scribd-downloader",
+        "Bug Reports": "https://github.com/alhilalanwar07/scribd-downloader/issues",
+        "Source": "https://github.com/alhilalanwar07/scribd-downloader",
     },
 )
